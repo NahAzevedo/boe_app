@@ -1,7 +1,6 @@
 # Boe - Aplicação Web
 
-## Aplicação Web exclusiva para dispositivos móveis
-<p>Sistema de Classificação de Imagens Por Meio da Aplicação de Aprendizagem Profunda para o Pré-diagnóstico de Dermatofitose Bovina</p>
+<p>É uma Aplicação Web exclusiva para dispositivos móveis com o sistema de classificação de imagens por meio da aplicação de aprendizagem profunda para o pré-diagnóstico de Dermatofitose Bovina</p>
 
 ### Como instalar este projeto?
 <p>Execute o seguinte comando em seu terminal Git Bash para instalar este projeto:</p>
